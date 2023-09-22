@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning kubernetes and database 
 - 📫 How to reach me: wanglei4687@gmail.com
-- 😄 Pronouns: stay hungry stay foolish
 
 ![wanglei4687's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wanglei4687&show_icons=true&bg_color=00000000)
