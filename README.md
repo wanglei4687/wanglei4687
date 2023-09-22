@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+- 🌱 I’m currently learning kubernetes and database 
+- 📫 How to reach me: wanglei4687@gmail.com
+
+![wanglei4687's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wanglei4687&show_icons=true&bg_color=00000000)
