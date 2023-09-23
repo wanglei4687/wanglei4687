@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🌱 I’m currently learning kubernetes and database 
+- 🌱 I’m currently learning kubernetes and database, [Cloud, AI, Database]
 - 📫 How to reach me: wanglei4687@gmail.com
 
 ![wanglei4687's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=wanglei4687&show_icons=true&bg_color=00000000)
